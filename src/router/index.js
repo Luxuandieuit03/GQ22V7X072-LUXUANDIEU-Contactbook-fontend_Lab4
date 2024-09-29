@@ -12,7 +12,6 @@ const routes = [
         name: "notfound",
         component: () => import("@/views/NotFound.vue"),
     },
-
     {
         path: "/contacts/:id",
         name: "contact.edit",

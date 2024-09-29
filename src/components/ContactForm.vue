@@ -43,7 +43,6 @@
             />
             <ErrorMessage name="phone" class="error-feedback" />
         </div>
-
         <div class="form-group form-check">
             <input
                 name="favorite"
